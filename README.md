@@ -81,3 +81,4 @@ evidence/      timestamped logs, exports, and screenshots for every phase
 MedCare Health Group is a fictional organization created for this project and all identities are fictional. The platform, the automation, the governance documents, the failures encountered, and the evidence produced are real. The environment was built deliberately broken, audited, remediated, and verified to the standard expected of enterprise IAM delivery.
 
 **Next in this series:** Cloud IAM Policy Design on AWS, in which MedCare's cloud migration exposes over permissive IAM roles.
+~ Darren B ~
